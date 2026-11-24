@@ -1,0 +1,12 @@
+# media and downloads
+*.mp4
+*.mkv
+*.m3u8
+*.ts
+# credentials / local state
+.env
+token.txt
+cinear.cfg
+manifest_body.txt
+__pycache__/
+.venv/
